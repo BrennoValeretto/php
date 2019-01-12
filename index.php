@@ -1,7 +1,9 @@
 <?php
 
 echo "Olá Mundo";
-echo "nova resource MTA";
-echo "Conexão Brasil RPG";
+
+echo "Testando a VIDA";
+
+echo "CBR 4.0"
 
 ?>
