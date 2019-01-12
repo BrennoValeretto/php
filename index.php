@@ -1,8 +1,8 @@
 <?php
 
-echo "Olá Mundo";
+echo "hahahahaha";
 
-echo "Testando a VIDA";
+echo "hahahahahaha";
 
 echo "hahahahahahahahahaha"
 
